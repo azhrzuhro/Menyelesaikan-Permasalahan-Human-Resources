@@ -75,16 +75,14 @@ cara menjalankan sistem prediksi:
 
 2. Pastikan direktori saat ini berada di folder proyek yang berisi semua berkas yang dibutuhkan, terutama prediction.py dan model.pkl. Jika belum berada di direktori tersebut, gunakan perintah berikut:
 
-'''
-    cd path/to/your/project
-'''
+  ```
+    cd path/to/destination/directory
+  ```
+3. Setelah berada di direktori yang benar, jalankan perintah berikut:
 
-3. Setelah berada di direktori yang benar, jalankan perintah berikut untuk menjalankan script prediksi:
-
-'''
+  ```
     python prediction.py
-'''
-
+  ```
 
 ## Conclusion
 
