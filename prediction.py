@@ -9,7 +9,7 @@ import numpy as np
 import joblib
 
 # Load model yang sudah dilatih dan disimpan
-model = joblib.load('/content/model.pkl')
+model = joblib.load('model.pkl')
 
 example_input_from_dataset = [0, 0, 0, 0, 1, 0, -1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0] 
 
